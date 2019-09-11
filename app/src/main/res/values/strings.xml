@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">madeintenone</string>
+    <string name="move_activity">Pindah Activity</string>
+    <string name="this_is_move_activity">Ini Move activity</string>
+    <string name="move_with_data">Pindah Activity dengan Data</string>
+    <string name="data_received">Data Diterima</string>
+
+</resources>
